@@ -1,0 +1,28 @@
+{
+  "name": "gittle",
+  "version": "1.0.0",
+  "description": "Little Git Utility for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grawk/gittle.git"
+  },
+  "keywords": [
+    "Git",
+    "Node.js",
+    "Promises"
+  ],
+  "author": "Matt Edelman <mattedelman@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grawk/gittle/issues"
+  },
+  "homepage": "https://github.com/grawk/gittle#readme",
+  "dependencies": {
+    "bluebird": "^2.10.0",
+    "shelljs": "^0.5.3"
+  }
+}
